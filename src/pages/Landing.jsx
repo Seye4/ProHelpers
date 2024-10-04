@@ -5,8 +5,8 @@ import axios from "axios";
 import ServiceList from "../components/ServiceList";
 import ContactUs from "./ContactUs";
 import About from "./About";
-import Slider from "../components/slider";
-import Hero from "../components/Hero";
+import Slider from "../components/slider.jsx";
+import Hero from "../components/Hero.jsx";
 
 const featuredProductsQuery = {
   queryKey: ["featuredProducts"],
