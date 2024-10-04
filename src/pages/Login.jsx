@@ -60,7 +60,7 @@ const Login = () => {
           jwt: "lorem45",
           user: {
             id: 12,
-            username: "demo",
+            name: "Demo",
             emails: "test@test.com",
             provider: "local",
             confirmed: true,
