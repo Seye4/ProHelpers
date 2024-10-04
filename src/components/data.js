@@ -15,7 +15,7 @@ const imageSlide = [
     id: 3,
     url: "/img/gardeningb.jpg",
     title: "Wir sind flexibel,\nschnell<span> zuverlässig</span>",
-    body: "wissen wir, wie man den Alltagsstress vertreibt und Platz für das wahre Leben schafft. ",
+    body: "wissen wir, wie man den Alltagsstress vertreibt und Platz für das wahre Leben schafft.",
   },
 ];
 

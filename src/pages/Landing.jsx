@@ -3,10 +3,10 @@ import cleaning_1 from "../assets/img/cleaning_img.png";
 import { Link, useLoaderData } from "react-router-dom";
 import axios from "axios";
 import ServiceList from "../components/ServiceList";
-import Hero from "../components/Hero";
 import ContactUs from "./ContactUs";
 import About from "./About";
 import Slider from "../components/slider";
+import Hero from "../components/Hero";
 
 const featuredProductsQuery = {
   queryKey: ["featuredProducts"],
@@ -25,7 +25,8 @@ const Landing = () => {
   return (
     <>
       <Slider />
-      {/* <Hero /> */}
+
+      <Hero />
 
       <About />
 

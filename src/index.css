@@ -564,17 +564,19 @@ NavLink {
 }
 
 /* small tablet styles */
-@media screen and (min-width: 620px) {
-}
-
-@media screen and (min-width: 848px) {
-  .hero {
+@media screen and (min-width: 740px) {
+  /* .hero {
     flex-direction: row-reverse;
     justify-content: space-between;
     align-items: center;
     gap: 3rem;
+  } */
+  .hero {
+    display: none;
   }
+}
 
+@media screen and (min-width: 848px) {
   .hero-text {
     width: 100%;
   }
