@@ -1,0 +1,29 @@
+.checkout {
+  margin-top: 2rem;
+  display: grid;
+  gap: 2rem;
+}
+
+.checkout-form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
+
+.checkout-form h4 {
+  text-transform: capitalize;
+  font-weight: 500;
+  font-size: 1.25rem; /* 20px */
+  line-height: 1.75rem; /* 28px */
+}
+
+.submit-session {
+  margin-top: 1rem;
+}
+
+@media (min-width: 960px) {
+  .checkout {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: flex-start;
+  }
+}

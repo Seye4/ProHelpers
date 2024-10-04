@@ -1,0 +1,647 @@
+[
+    {
+        "id": 1,
+        "name": "Fruhstuck",
+        "thumbnail": 1,
+        "SubServices": [
+          {
+            "subServiceName": "Frühstücks service",
+            "subServiceInfo": "For a touch of luxury, we also offer buttery-soft croissants and heavenly fluffy Franzbrötchen on request. Each piece costs just €3.90 and promises heavenly enjoyment.",
+            "products": [
+              {
+              "productId": 11,
+              "productName": "Croissants",
+              "info": "auch butterzarte Croissants",
+              "amount": [
+                {
+                  "Quantity": "4 Stück",
+                  "amount": 4,
+                  "productCost": 390  
+                },
+                {
+                  "Quantity": "6 Stück",
+                  "amount": 6,
+                  "productCost": 780 
+                },
+                {
+                  "Quantity": "10 Stück",
+                  "amount": 10,
+                  "productCost": 1170  
+                }
+              ],
+              "productImg": "/img/taxiService.jpg"       
+              },
+              {
+              "productId": 12,
+              "productName": "Franzbrötchen",
+              "info": "auch butterzarte Croissants",
+              "amount": [
+                {
+                  "Quantity": "1",
+                  "amount": 1,
+                  "productCost": 390  
+                },
+                {
+                  "Quantity": "2",
+                  "amount": 2,
+                  "productCost": 780 
+                },
+                {
+                  "Quantity": "3",
+                  "amount": 3,
+                  "productCost": 1170  
+                }
+              ],
+              "productImg": "/img/taxiService2.jpg"       
+              }   
+            ]
+          },
+          {
+            "subServiceName": "Brötchenzauber",
+            "subServiceInfo": "Unsere Brötchenvariationen sind ein wahres Fest für die Sinne. Ob du nun 4, 6 oder 10 Stück möchtest, wir haben das perfekte Paket für dich. Und das Beste? Es ist erschwinglich und köstlich zugleich!",
+            "products": [
+              {
+              "productId": 13,
+              "productName": "Croissants",
+              "info": "auch butterzarte Croissants",
+              "amount": [
+                {
+                  "Quantity": "4 Stück",
+                  "amount": 4,
+                  "productCost": 8  
+                },
+                {
+                  "Quantity": "6 Stück",
+                  "amount": 6,
+                  "productCost": 10 
+                },
+                {
+                  "Quantity": "10 Stück",
+                  "amount": 10,
+                  "productCost": 14  
+                }
+              ],
+              "productImg": "/img/taxiService.jpg"       
+              } 
+            ]
+          },
+          {
+            "subServiceName": "Cakes",
+            "subServiceInfo": "Aber das ist noch nicht alles - unsere selbstgebackenen Kuchen und Torten sind der Höhepunkt jeder Feierlichkeit. Von Sonntagskuchen über Geburtstagsleckereien bis hin zu speziell angefertigten Meisterwerken - wir zaubern süße Träume, die deine Geschmacksknospen verzaubern.",
+            "products": [
+              {
+              "productId": 14,
+              "productName": "Zitronenpuffer",
+              "info": "",
+              "amount": [
+                {
+                  "Quantity": "1",
+                  "amount": 1,
+                  "productCost": 49  
+                }
+              ],
+              "productImg": "/img/taxiService.jpg"       
+              },
+              {
+                "productId": 15,
+                "roductName": "Schokopuffer",
+                "info": "",
+                "amount": [
+                  {
+                    "Quantity": "1",
+                    "amount": 1,
+                    "productCost": 49  
+                  }
+                ],
+                "productImg": "/img/taxiService.jpg"       
+              },
+              {
+                "productId": 16,
+                "roductName": "Apfel- oder Birnenblechkuchen",
+                "info": "",
+                "amount": [
+                  {
+                    "Quantity": "1",
+                    "amount": 1,
+                    "productCost": 69  
+                  }
+                ],
+                "productImg": "/img/taxiService.jpg"       
+              },
+              {
+                "productId": 17,
+                "roductName": "Geburtstagskuchen",
+                "info": "",
+                "amount": [
+                  {
+                    "Quantity": "1",
+                    "amount": 1,
+                    "productCost": 59  
+                  }
+                ],
+                "productImg": "/img/taxiService.jpg"       
+              },
+              {
+                "productId": 18,
+                "roductName": "Kinderkuchen",
+                "info": "",
+                "amount": [
+                  {
+                    "Quantity": "1",
+                    "amount": 1,
+                    "productCost": 39  
+                  }
+                ],
+                "productImg": "/img/taxiService.jpg"       
+              }
+            ]
+          }
+        ],
+        "picture": "/img/taxiService.jpg",
+        "picture2": "/img/taxiService2.jpg",
+        "picture3": "/img/taxiService3.jpg",
+        "picture4": "/img/taxiService4.jpg",
+        "info": "Beginne deinen Tag mit unserem exquisiten Frühstücksservice, der mit knusprigem Brot und duftenden Brötchen aufwartet. Aber das ist noch nicht alles...",
+        "moreInfo": " Beginne deinen Tag mit unserem exquisiten Frühstücksservice"
+    },
+    {
+      "id": 2,
+      "name": "Fruhstuck",
+      "thumbnail": 1,
+      "SubServices": [
+        {
+          "subServiceName": "Frühstücks service",
+          "subServiceInfo": "For a touch of luxury, we also offer buttery-soft croissants and heavenly fluffy Franzbrötchen on request. Each piece costs just €3.90 and promises heavenly enjoyment.",
+          "products": [
+            {
+            "productId": 21,
+            "productName": "Croissants",
+            "info": "auch butterzarte Croissants",
+            "amount": [
+              {
+                "Quantity": "4 Stück",
+                "amount": 4,
+                "productCost": 390  
+              },
+              {
+                "Quantity": "6 Stück",
+                "amount": 6,
+                "productCost": 780 
+              },
+              {
+                "Quantity": "10 Stück",
+                "amount": 4,
+                "productCost": 1170  
+              }
+            ],
+            "productImg": "/img/taxiService.jpg"       
+            },
+            {
+            "productId": 22,
+            "productName": "Franzbrötchen",
+            "info": "auch butterzarte Croissants",
+            "amount": [
+              {
+                "Quantity": 1,
+                "amount": 4,
+                "productCost": 390  
+              },
+              {
+                "Quantity": 2,
+                "amount": 4,
+                "productCost": 780 
+              },
+              {
+                "Quantity": 3,
+                "amount": 4,
+                "productCost": 1170  
+              }
+            ],
+            "productImg": "/img/taxiService2.jpg"       
+            }   
+          ]
+        },
+        {
+          "subServiceName": "Brötchenzauber",
+          "subServiceInfo": "Unsere Brötchenvariationen sind ein wahres Fest für die Sinne. Ob du nun 4, 6 oder 10 Stück möchtest, wir haben das perfekte Paket für dich. Und das Beste? Es ist erschwinglich und köstlich zugleich!",
+          "products": [
+            {
+            "productId": 23,
+            "productName": "Croissants",
+            "info": "auch butterzarte Croissants",
+            "amount": [
+              {
+                "Quantity": "4 Stück",
+                "amount": 4,
+                "productCost": 8  
+              },
+              {
+                "Quantity": "6 Stück",
+                "amount": 4,
+                "productCost": 10 
+              },
+              {
+                "Quantity": "10 Stück",
+                "amount": 4,
+                "productCost": 14  
+              }
+            ],
+            "productImg": "/img/taxiService.jpg"       
+            } 
+          ]
+        },
+        {
+          "subServiceName": "Cakes",
+          "subServiceInfo": "Aber das ist noch nicht alles - unsere selbstgebackenen Kuchen und Torten sind der Höhepunkt jeder Feierlichkeit. Von Sonntagskuchen über Geburtstagsleckereien bis hin zu speziell angefertigten Meisterwerken - wir zaubern süße Träume, die deine Geschmacksknospen verzaubern.",
+          "products": [
+            {
+            "productId": 24,
+            "productName": "Zitronenpuffer",
+            "info": "",
+            "amount": [
+              {
+                "Quantity": "1",
+                "amount": 4,
+                "productCost": 49  
+              }
+            ],
+            "productImg": "/img/taxiService.jpg"       
+            },
+            {
+              "productId": 25,
+              "roductName": "Schokopuffer",
+              "info": "",
+              "amount": [
+                {
+                  "Quantity": "1",
+                  "amount": 4,
+                  "productCost": 49  
+                }
+              ],
+              "productImg": "/img/taxiService.jpg"       
+            },
+            {
+              "productId": 26,
+              "roductName": "Apfel- oder Birnenblechkuchen",
+              "info": "",
+              "amount": [
+                {
+                  "Quantity": "1",
+                  "amount": 4,
+                  "productCost": 69  
+                }
+              ],
+              "productImg": "/img/taxiService.jpg"       
+            },
+            {
+              "productId": 27,
+              "roductName": "Geburtstagskuchen",
+              "info": "",
+              "amount": [
+                {
+                  "Quantity": "1",
+                  "amount": 4,
+                  "productCost": 59  
+                }
+              ],
+              "productImg": "/img/taxiService.jpg"       
+            },
+            {
+              "productId": 28,
+              "roductName": "Kinderkuchen",
+              "info": "",
+              "amount": [
+                {
+                  "Quantity": "1",
+                  "amount": 4,
+                  "productCost": 39  
+                }
+              ],
+              "productImg": "/img/taxiService.jpg"       
+            }
+          ]
+        }
+      ],
+      "picture": "/img/taxiService.jpg",
+      "picture2": "/img/taxiService2.jpg",
+      "picture3": "/img/taxiService3.jpg",
+      "picture4": "/img/taxiService4.jpg",
+      "info": "Beginne deinen Tag mit unserem exquisiten Frühstücksservice, der mit knusprigem Brot und duftenden Brötchen aufwartet. Aber das ist noch nicht alles...",
+      "moreInfo": " Beginne deinen Tag mit unserem exquisiten Frühstücksservice"
+    },
+    {
+      "id": 3,
+      "name": "Entrümpelung",
+      "thumbnail": 2,
+      "SubServices": [
+        {
+          "subServiceName": "",
+          "subServiceInfo": "",
+          "products": [
+            {
+            "productId": 31,
+            "productName": "",
+            "info": "",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": ""  
+              }
+            ],
+            "productImg": ""       
+            }   
+          ]
+        }
+      ],
+      "picture": "/img/taxiService.jpg",
+      "picture2": "/img/taxiService2.jpg",
+      "picture3": "/img/taxiService3.jpg",
+      "picture4": "/img/taxiService4.jpg",
+      "info": "Befreie dein Zuhause von überflüssigem Ballast mit unserem Entrümpelungsservice.",
+      "moreInfo": "Für nur 99.-€ pro Stunde und 150.-€ extra für den Transporter stehen wir dir zur Seite, um dein Zuhause zu einem Ort der Klarheit und Ruhe zu machen. Und wenn es um Recycling geht, sind wir auch hier für dich da - mit einem zusätzlichen Aufschlag ab 20.-€ kümmern wir uns um die umweltfreundliche Entsorgung deiner Altlasten."
+    },
+    {
+      "id": 4,
+      "name": "Entrümpelung",
+      "thumbnail": 2,
+      "SubServices": [
+        {
+          "subServiceName": "",
+          "subServiceInfo": "",
+          "products": [
+            {
+            "productId": 41,
+            "productName": "",
+            "info": "",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": ""  
+              }
+            ],
+            "productImg": ""       
+            }   
+          ]
+        }
+      ],
+      "picture": "/img/taxiService.jpg",
+      "picture2": "/img/taxiService2.jpg",
+      "picture3": "/img/taxiService3.jpg",
+      "picture4": "/img/taxiService4.jpg",
+      "info": "Befreie dein Zuhause von überflüssigem Ballast mit unserem Entrümpelungsservice.",
+      "moreInfo": "Für nur 99.-€ pro Stunde und 150.-€ extra für den Transporter stehen wir dir zur Seite, um dein Zuhause zu einem Ort der Klarheit und Ruhe zu machen. Und wenn es um Recycling geht, sind wir auch hier für dich da - mit einem zusätzlichen Aufschlag ab 20.-€ kümmern wir uns um die umweltfreundliche Entsorgung deiner Altlasten."
+    },
+    {
+      "id": 5,
+      "name": "Handwerkliches",
+      "thumbnail": 2,
+      "SubServices": [
+        {
+          "subServiceName": "",
+          "subServiceInfo": "",
+          "products": [
+            {
+            "productId": 51,
+            "productName": "",
+            "info": "",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": ""  
+              }
+            ],
+            "productImg": ""       
+            }   
+          ]
+        }
+      ],
+      "picture": "/img/taxiService.jpg",
+      "picture2": "/img/taxiService2.jpg",
+      "picture3": "/img/taxiService3.jpg",
+      "picture4": "/img/taxiService4.jpg",
+      "info": "Lass uns gemeinsam dein Zuhause in ein wahres Meisterwerk verwandeln!",
+      "moreInfo": "Lass uns deinem Zuhause den letzten Schliff verleihen! Ob es um kleine handwerkliche Arbeiten, den Auf- oder Abbau von Möbeln oder das Anbringen von Lampen und Regalen geht - wir sind deine zuverlässigen Partner. Für nur 59.-€ pro Stunde stehen wir dir zur Seite, und das Material gibt es schon ab 20.-€ pauschal dazu."
+    },
+    {
+      "id": 6,
+      "name": "Gartenarbeit",
+      "thumbnail": 2,
+      "SubServices": [
+        {
+          "subServiceName": "",
+          "subServiceInfo": "",
+          "products": [
+            {
+            "productId": 61,
+            "productName": "",
+            "info": "",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": ""  
+              }
+            ],
+            "productImg": ""       
+            }   
+          ]
+        }
+      ],
+      "picture": "/img/taxiService.jpg",
+      "picture2": "/img/taxiService2.jpg",
+      "picture3": "/img/taxiService3.jpg",
+      "picture4": "/img/taxiService4.jpg",
+      "info": "Die Natur ruft, und wir antworten mit unserer professionellen Gartenpflege.",
+      "moreInfo": "<h3> Unser Team </h3> \n \n Mit 2 Mitarbeitern pro Stunde und einem unschlagbaren Preis von 79.-€ verwandeln wir deinen Garten in eine grüne Oase der Entspannung. Terrassen, Holzdecks - keine Herausforderung ist zu groß für unser Team"
+    },
+    {
+      "id": 7,
+      "name": "Grundreinigung",
+      "thumbnail": 3,
+      "SubServices": [
+        {
+          "subServiceName": "",
+          "subServiceInfo": "",
+          "products": [
+            {
+            "productId": 71,
+            "productName": "Grundreinigung",
+            "info": "Nach einer Feier oder dem saisonalen Putz brauchst du Unterstützung? Wir sind zur Stelle! \n \n Mit mindestens 2 Mitarbeitern sorgen wir für eine schnelle und präzise Reinigung, damit du dich wieder wohlfühlen kannst. \n \n Preise beginnen bei 89.-€ pro Stunde, denn Qualität und Zuverlässigkeit sind unsere Markenzeichen.",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": "89"  
+              }
+            ],
+            "productImg": ""       
+            },   
+            {
+            "productId": 72,
+            "productName": "Unterhaltsreinigung",
+            "info": "Tauche ein in die Welt der Sauberkeit und Frische mit unserem regelmäßigen Reinigungsservice im wöchentlichen Rhythmus. \n \n  Mit mindestens 2 Mitarbeitern verwandeln wir dein Zuhause oder Büro in eine strahlende Oase. Für nur 69.-€ pro Stunde gönnen wir deinem Raum einen Hauch von Glanz und Glückseligkeit.",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": "69"  
+              }
+            ],
+            "productImg": ""       
+            },   
+            {
+            "productId": 73,
+            "productName": "Shop-, Büro-, Praxenreinigung etc.:",
+            "info": "Dein Geschäftsraum ist dein Heiligtum, und wir sorgen dafür, dass er immer im besten Licht erstrahlt.  \n \n Mit mindestens 2 Mitarbeitern und einem unschlagbaren Preis von 59.-€ pro Stunde reinigen wir nicht nur deine Innen-, sondern auch deine Außenflächen. Vor oder nach der Geschäftszeit, sogar am Wochenende - wir sind flexibel wie dein Erfolg.",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": "89"  
+              }
+            ],
+            "productImg": ""       
+            },   
+            {
+              "productId": 74,
+              "roductName": "Ferienwohnung & airbnb:",
+              "info": "Für ein sorgenfreies Ferienerlebnis überlassen wir nichts dem Zufall. \n \n Von der Reinigung bis zur Schlüsselübergabe kümmern wir uns um alles, inklusive der Abwicklung mit deinen Gästen. Unser Preis? Ein unschlagbarer Luxus von nur 79.-€ pro Stunde.",
+              "amount": [
+                {
+                  "Quantity": "",
+                  "amount": 4,
+                  "productCost": "79"  
+                }
+              ],
+              "productImg": ""       
+            },   
+            {
+              "productId": 75,
+              "roductName": "Glasreinigung",
+              "info": "Ein klarer Durchblick ist der Schlüssel zu einem strahlenden Tag. \n \n Unsere professionelle Glasreinigung umfasst Schaufenster, große Fensterflächen und sogar die kleinen Details wie Fensterrahmen. Für nur 59.-€ pro 15 Minuten verleihen wir deinem Zuhause oder Geschäft einen neuen Glanz.",
+              "amount": [
+                {
+                  "Quantity": "",
+                  "amount": 4,
+                  "productCost": "59"  
+                }
+              ],
+              "productImg": ""       
+            },   
+            {
+              "productId": 76,
+              "roductName": "Treppenhausreinigung",
+              "info": "Treppauf, treppab - mit unserem Service wird dein Treppenhaus zum Spaziergang im Paradies. \n \n  Für nur 79.-€ pro Stunde sorgen wir für eine saubere und einladende Atmosphäre. Und wenn du Sonderwünsche hast, kein Problem - wir erstellen gerne ein maßgeschneidertes Angebot, damit du dich rundum wohl fühlst.",
+              "amount": [
+                {
+                  "Quantity": "",
+                  "amount": 4,
+                  "productCost": "79"  
+                }
+              ],
+              "productImg": ""       
+            }   
+          ]
+        }
+      ],
+      "picture": "/img/taxiService.jpg",
+      "picture2": "/img/taxiService2.jpg",
+      "picture3": "/img/taxiService3.jpg",
+      "picture4": "/img/taxiService4.jpg",
+      "info": "",
+      "moreInfo": ""
+    },     
+    {
+      "id": 8,
+      "name": "Spezial Service",
+      "thumbnail": 3,
+      "SubServices": [
+        {
+          "subServiceName": "",
+          "subServiceInfo": "",
+          "products": [
+            {
+            "productId": 81,
+            "productName": "BENÖTIGT EIN SENIOR HILFE IM ALLTAG?",
+            "info": "Senioren sind bei uns in den besten Händen! Für Seniorenumzüge bieten wir ab zwei Mitarbeitern und einem Transporter einen All-inclusive-Service an. Ab 3 Stunden starten wir bereits ab 399.-€, jede weitere Stunde kostet nur 99.-€.  \n \n Auch bei Seniorenentrümpelungen lassen wir keine Wünsche offen. Mit unserem Team von zwei Mitarbeitern und einem Transporter sind wir ab 3 Stunden für dich da, und das schon ab 399.-€. Jede weitere Stunde beträgt nur 99.-€, und für Recycling berechnen wir lediglich einen Aufschlag ab 70.-€.  \n \n  Wir sind zur Stelle! Egal ob Einkaufen, Fahren oder Unterstützen im Haushalt - wir stehen ab 59.-€ pro Stunde mit Rat und Tat zur Seite. Und für den Fall, dass das Chaos überhandnimmt, bieten wir Hilfe bei Messiewohnungen an.  \n \n  Mit einem Team von mindestens drei Mitarbeitern und einem Transporter stehen wir ab 159.-€ pro Stunde bereit, um dein Zuhause wieder bewohnbar zu machen.",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": ""  
+              }
+            ],
+            "productImg": ""       
+            },   
+            {
+            "productId": 82,
+            "productName": "Recycling",
+            "info": "Recycling? Kein Problem, dafür berechnen wir lediglich 70.-€ extra. Weitere Preise und individuelle Angebote erhältst du auf Anfrage.",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": ""  
+              }
+            ],
+            "productImg": ""       
+            }   
+          ]
+        }
+      ],
+      "picture": "/img/taxiService.jpg",
+      "picture2": "/img/taxiService2.jpg",
+      "picture3": "/img/taxiService3.jpg",
+      "picture4": "/img/taxiService4.jpg",
+      "info": "",
+      "moreInfo": ""
+    },
+    {
+      "id": 9,
+      "name": "Fahr Service",
+      "thumbnail": 3,
+      "SubServices": [
+        {
+          "subServiceName": "",
+          "subServiceInfo": "",
+          "products": [
+            {
+            "productId": 91,
+            "productName": "",
+            "info": " <h3> Bereit für eine entspannte und sichere Fahrt? </h3> \n \n <ul> <li> Unser exklusiver Fahrservice steht bereit, um dich zu deinen Zielen zu bringen, sei es zum Arzt, zum Einkaufsbummel, zur Werkstatt oder zur Abholung vom Flughafen oder Bahnhof </li> <li> Umzug </li> <li> Abholung vom Flughafen oder Bahnhof. </li> <li> ambulante </li> </ul>  \n \n  <h3> KONTAKTIEREN SIE UNS JETZT </h3>. <ul> <li> Deutschlandweite </li> Kurierdienste <li> Für dringende Transporte und Botenfahrten sind wir ebenfalls dein zuverlässiger Partner. </li> <li> Bundesweite Fahrten sind ebenfalls möglich, und wir erstellen gerne ein maßgeschneidertes Angebot für dich. </li> <li> Unser Preis für Botenfahrten beträgt nur 59.-€ pro Stunde, damit deine Sendung sicher und schnell ans Ziel gelangt. </li> </ul> <h3>Ihre Vorteile als Kunde </h3> <ul> <li> <h4> Schnell & pünktlich </h4>  \n \n <p> Unser Fokus auf effiziente Routenplanung und moderne Logistiktechnologien ermöglicht uns, Ihre Sendungen schnell und pünktlich zu liefern. </p> </li>  <li> <h4> Volle Flexibilität </h4> \n \n  <p> wir sind flexibel und stehen jederzeit zur Verfügung. Bundesweite Fahrten sind ebenfalls möglich, und wir erstellen gerne ein maßgeschneidertes Angebot für dich.</p> </li> <li> <h4> Zuverlässig & sicher </h4> \n \n  <p> Preise starten bei nur 69.-€ pro Stunde, denn deine Zeit und Sicherheit sind uns unbezahlbar.</p> </li> </ul> <h3> Rund um die Uh Ihr Ansprechpartne </h3 \n \n <p> Rufen Sie uns gerne an, bei jeglicher Art von Fragen, oder wenn Sie ein Angebot benötigen. Wir stehen Ihnen 7 Tage die Woche – 24 Stunden rund um die Uhr zur Verfügung. </p> <p> Jetzt anfragen </p> <h4> disposition </h4> <p> +49 9834 79220-33 </p> <h4> Frachtanfrage per E-Mail: </h4> <p> info@expresslogistik-reinwald.de </p> ",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": ""  
+              }
+            ],
+            "productImg": ""       
+            },   
+            {
+            "productId": 92,
+            "productName": "",
+            "info": "",
+            "amount": [
+              {
+                "Quantity": "",
+                "amount": 4,
+                "productCost": ""  
+              }
+            ],
+            "productImg": ""       
+            }   
+          ]
+        }
+      ],
+      "picture": "/img/taxiService.jpg",
+      "picture2": "/img/taxiService2.jpg",
+      "picture3": "/img/taxiService3.jpg",
+      "picture4": "/img/taxiService4.jpg",
+      "info": "",
+      "moreInfo": ""
+    }
+  ]

@@ -1,0 +1,58 @@
+.header {
+  width: var(--view-width);
+  max-width: var(--max-width);
+  margin: 15px auto 2px;
+}
+
+.header-content {
+  display: flex;
+  justify-content: center;
+}
+
+.header-links {
+  display: flex;
+  gap: 40px;
+  font-size: 15px;
+}
+
+.header-links :first-child {
+  color: var(--white);
+}
+
+.header-links :last-child {
+  color: var(--clr-ter);
+}
+
+.user-welcome {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 15px;
+  text-transform: capitalize;
+  letter-spacing: var(--letterSpacing);
+}
+
+.user-welcome span {
+  color: var(--clr-pry);
+}
+
+.user-welcome button {
+  color: var(--clr-pry);
+  background: none;
+  border: 1px solid var(--clr-pry);
+  padding: 5px 10px;
+  border-radius: 10px;
+  transition: var(--transition);
+  letter-spacing: 2px;
+}
+
+.user-welcome button :hover {
+  background: var(--clr-ter);
+  color: var(--white);
+}
+
+@media (min-width: 960px) {
+  .header-content {
+    justify-content: flex-end;
+  }
+}

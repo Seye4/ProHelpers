@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Fruhstuck",
+    "src": [
+      "/img/breakfast1.jpg",
+      "/img/culinary.jpg",
+      "/img/culinary2.jpg",
+      "/img/culinary3.jpg"
+    ],
+    "info": "Beginne deinen Tag mit unserem exquisiten Frühstücksservice, der mit knusprigem Brot und duftenden Brötchen aufwartet. Aber das ist noch nicht alles...",
+    "moreInfo": "Beginne deinen Tag mit unserem exquisiten Frühstücksservice",
+    "slug": "fruhstuck",
+    "hasCart": "yes",
+    "index": 1
+  },
+  {
+    "id": 2,
+    "name": "Frühstücks Service",
+    "src": [
+      "/img/culinary3.jpg",
+      "/img/culinary.jpg",
+      "/img/culinary2.jpg",
+      "/img/breakfast1.jpg"
+    ],
+    "info": "Unsere Welt dreht sich nicht nur um Reinigung und Pflege, sondern auch um die süßen und herzhaften Genüsse des Lebens",
+    "moreInfo": "Willkommen im kulinarischen Paradies von ProHelpers!",
+    "slug": "frühstücksservice",
+    "hasCart": "yes",
+    "index": 2
+  },
+  {
+    "id": 3,
+    "name": "Entrümpelung",
+    "src": [
+      "/img/declutter_1.jpeg",
+      "/img/declutter_2.jpeg",
+      "/img/declutter_3.jpeg",
+      "/img/declutter_4.jpeg"
+    ],
+    "info": "Befreie dein Zuhause von überflüssigem Ballast mit unserem Entrümpelungsservice.",
+    "moreInfo": "Für nur 99.-€ pro Stunde und 150.-€ extra für den Transporter stehen wir dir zur Seite, um dein Zuhause zu einem Ort der Klarheit und Ruhe zu machen. Und wenn es um Recycling geht, sind wir auch hier für dich da - mit einem zusätzlichen Aufschlag ab 20.-€ kümmern wir uns um die umweltfreundliche Entsorgung deiner Altlasten.",
+    "slug": "entrümpelung",
+    "hasCart": "no",
+    "index": 3
+  },
+  {
+    "id": 4,
+    "name": "Gartenarbeit",
+    "src": [
+      "/img/gardening1.png",
+      "/img/gardening2.jpg",
+      "/img/gardening3.jpg",
+      "/img/gardening4.jpg"
+    ],
+    "info": "Die Natur ruft, und wir antworten mit unserer professionellen Gartenpflege.",
+    "moreInfo": "<h2> Unser Team</h2> <br>Mit 2 Mitarbeitern pro Stunde und einem unschlagbaren Preis von 79.-€ verwandeln wir deinen Garten in eine grüne Oase der Entspannung. Terrassen, Holzdecks - keine Herausforderung ist zu groß für unser Team",
+    "slug": "gartenarbeit",
+    "hasCart": "no",
+    "index": 4
+  },
+  {
+    "id": 5,
+    "name": "Handwerkliches",
+    "src": [
+      "/img/craft_1.jpeg",
+      "/img/craft_2.jpeg",
+      "/img/craft_3.jpeg",
+      "/img/craft_4.jpeg"
+    ],
+    "info": "ass uns gemeinsam dein Zuhause in ein wahres Meisterwerk verwandeln",
+    "moreInfo": "Lass uns deinem Zuhause den letzten Schliff verleihen! Ob es um kleine handwerkliche Arbeiten, den Auf- oder Abbau von Möbeln oder das Anbringen von Lampen und Regalen geht - wir sind deine zuverlässigen Partner. Für nur 59.-€ pro Stunde stehen wir dir zur Seite, und das Material gibt es schon ab 20.-€ pauschal dazu.",
+    "slug": "handwerkliches",
+    "hasCart": "no",
+    "index": 5
+  },
+  {
+    "id": 6,
+    "name": "Grundreinigung",
+    "src": [
+      "/img/cleaning7.jpg",
+      "/img/cleaning2.jpg",
+      "/img/cleaning3.png",
+      "/img/cleaning4.jpg"
+    ],
+    "info": "Nach einer Feier oder dem saisonalen Putz brauchst du Unterstützung? Wir sind zur Stelle!",
+    "moreInfo": "Mit mindestens 2 Mitarbeitern sorgen wir für eine schnelle und präzise Reinigung, damit du dich wieder wohlfühlen annst. \n\n Preise beginnen bei 89.-€ pro Stunde, denn Qualität und Zuverlässigkeit sind unsere Markenzeichen",
+    "slug": "grundreinigung",
+    "hasCart": "yes",
+    "index": 6
+  },
+  {
+    "id": 7,
+    "name": "Spezialservice",
+    "src": [
+      "/img/special1.png",
+      "/img/special2.jpg",
+      "/img/special3.jpg",
+      "/img/cleaning4.jpg"
+    ],
+    "info": "Senioren sind bei uns in den besten Händen! Für Seniorenumzüge bieten wir ab zwei Mitarbeitern und einem Transporter einen All-inclusive-Service an. Ab 3 Stunden starten wir bereits ab 399.-€, jede weitere Stunde kostet nur 99.-€.",
+    "moreInfo": "Auch bei Seniorenentrümpelungen lassen wir keine Wünsche offen. Mit unserem Team von zwei Mitarbeitern und einem Transporter sind wir ab 3 Stunden für dich da, und das schon ab 399.-€. Jede weitere Stunde beträgt nur 99.-€, und für Recycling berechnen wir lediglich einen Aufschlag ab 70.-€.",
+    "slug": "spezialservice",
+    "hasCart": "yes",
+    "index": 7
+  },
+  {
+    "id": 8,
+    "name": "Fahrservice",
+    "src": [
+      "/img/taxiService.jpg",
+      "/img/taxiService2.jpg",
+      "/img/taxiService3.jpg",
+      "/img/taxiService4.jpg"
+    ],
+    "info": "Bereit für eine entspannte und sichere Fahrt?",
+    "moreInfo": "Unser exklusiver Fahrservice steht bereit, um dich zu deinen Zielen zu bringen, sei es zum Arzt, zum Einkaufsbummel, zur Werkstatt oder zur Abholung vom Flughafen oder Bahnhof.",
+    "slug": "fahrservice",
+    "hasCart": "no",
+    "index": 8
+  }
+]
