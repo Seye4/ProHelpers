@@ -54,7 +54,8 @@ const Hero = () => {
       {/* <img src={"/img/hero.png"} alt="" /> */}
       <div className="hero-text">
         <h1>
-          Dive <br /> into the world of <br /> ProHelpers
+          Tauchen Sie <br />
+          ein in die <br /> Welt von <br /> ProHelpers
         </h1>
         <p className="leading">
           {" "}
